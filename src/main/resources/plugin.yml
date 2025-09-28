@@ -1,0 +1,14 @@
+name: MeteoritesPro
+version: '1.5.4'
+main: it.mcexp.meteoritesPro.MeteoritesPro
+api-version: '1.21'
+softdepend: [WorldGuard, WorldEdit, GriefPrevention]
+authors: [Tommaso Benatti]
+
+commands:
+  mp:
+    usage: /<command>
+    description: The main MeteoritesPro Command
+  meteoritespro:
+    usage: /<command>
+    description: The main MeteoritesPro Command
